@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcbaef2a8754f804989679d155e80648, type: 3}
+  m_Name: RockItem
+  m_EditorClassIdentifier: 
+  objectName: Rock
+  quantity: 0
+  sprite: {fileID: 21300050, guid: b4c0fb29fc968984cb9bbc0bff472aad, type: 3}
+  stackable: 1
+  type: 2
